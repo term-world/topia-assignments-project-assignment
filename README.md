@@ -1,8 +1,7 @@
-
 | Date              |          |
 |:------------------|:---------|
-| 14 November 2022 | Assigned |
-| Various          | Due      |
+| TODO | Assigned |
+| TODO    | Due      |
 | Status            | [![GatorGrader](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml) |
 
 # 
