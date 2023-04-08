@@ -14,7 +14,7 @@ desire, the time has come to let you use some of your power (however meagre) to 
 the changes you wish to see in our fair city. That is right, my citizens, I have heard
 you, and you want to _work_.
 
-And _work_, you must! As one of my trusted mentors in all things political once said,
+And _work_ you must! As one of my trusted mentors in all things political once said,
 
 > nothing good ever comes.
 
@@ -24,7 +24,14 @@ that you will complete for that same nothing.
 However, I allow that perhaps some things in `term-world` don't work exactly the way
 that you want them to. For example, our power system, while splendid for _me_, may
 not perform the same for you. Our world's `inventory` might not seem to function
-"correctly," as one with a critical eye _might_ say.
+"correctly," as one with a critical eye _might_ say. I've heard discussions of a, 
+and my advisors had to remind me of what this was called, a _mass transit_ system,
+though I have no idea what that means as it caters to more people than just _me_.
+
+So begin your planning! Decipher the many systems that the world offers you! Propose
+whatever it is that you've been telling me that you want (and you'll need to propose it
+because, frankly, I've forgotten everything anyone has suggested to me). Let's get to 
+work people! We have a new status quo to build!
 
 ## Overview
 
