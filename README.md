@@ -15,7 +15,9 @@ the changes you wish to see in our fair city. That is right, my citizens, I have
 you, and you want to _work_.
 
 And _work_, you must! As one of my trusted mentors in all things political once said,
+
 > nothing good ever comes.
+
 So there's nothing to look forward to except the glow, the sheen, the aura of the work 
 that you will complete for that same nothing.
 
