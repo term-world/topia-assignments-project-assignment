@@ -19,14 +19,14 @@ And _work_ you must! As one of my trusted mentors in all things political once s
 > nothing good ever comes.
 
 So there's nothing to look forward to except the glow, the sheen, the aura of the work 
-that you will complete for that same nothing.
+that you will complete for that very same nothing.
 
 However, I allow that perhaps some things in `term-world` don't work exactly the way
 that you want them to. For example, our power system, while splendid for _me_, may
 not perform the same for you. Our world's `inventory` might not seem to function
 "correctly," as one with a critical eye _might_ say. I've heard discussions of a, 
-and my advisors had to remind me of what this was called, a _mass transit_ system,
-though I have no idea what that means as it caters to more people than just _me_.
+"mass transit" system, which is something my advisors tell me that I wouldn't like
+because the word "mass" means more than just _me_.
 
 So begin your planning! Decipher the many systems that the world offers you! Propose
 whatever it is that you've been telling me that you want (and you'll need to propose it
@@ -57,33 +57,15 @@ There will be no accommodations to this rule.
 ### Choosing a project
 
 World projects are necessarily open. This means that you're able to select 
-anything to work on, though the project will need to be of sufficient 
-complexity and depth to warrant needing 3+ weeks for completion. The only area 
-out-right forbidden in `term-world`: games. We need not of trifles, amusements, 
-or diversions. We are building a world, after all.
+a range of tasks to complete, and the project will be of sufficient 
+complexity and depth to warrant needing 3+ weeks for completion. 
 
-#### Examples
+#### Areas of work
 
-Scale and scope (i.e. how much work and how much is affected by that work) will 
-vary from project to project. As long as the difficulty and duration are 
-appropriate to the individual(s) completing the work, this is not a factor in 
-evaluation. No one gets "more points" by doing something harder, though all of 
-yoru projects will challenge you.
-
-For your consideration, the Office of the Mayor provides the following short 
-list of potential projects, some of which may already be spoken for:
-
-* a community power grid
-* a world wallet system
-* a world economy
-* improvements to the inventory system
-* proper vending machines
-* citizen transportation
-
-These examples do not contemplate the entire range of possibilities. There are 
-many more for you to discover. Only one project can address a given specific 
-area. The Mayor will collect projects that citizens suggest and approve them on 
-a case-by-case basis.
+Each partnership will be allowed a rank-choice vote to choose the area of `term-world`
+which constitutes their project. Below, you'll find a grid of the various areas
+and their relative complexity. You may use this chart to determine which projects are
+of interest and appropriate scope.
 
 ### Work
 
