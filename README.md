@@ -280,6 +280,8 @@ we can broadly say that every project will:
 * demonstration of the broad array of skills gained throughout the semester
 
 While these three criteria aren't concrete, they imply several specific outcomes.
+The Golden Rule applies in this case, however, to say that _if the code doesn't
+function, the project **is not complete**_.
 
 #### Final project presentation
 
