@@ -1,4 +1,11 @@
 # What's up docs/
+- README.md:
+  - description: No TODO markers left in README.md
+    check: MatchFileFragment
+    options:
+      fragment: TODO
+      count: 0
+      exact: true
 - docs/proposal.md:
   - description: No TODO markers left in proposal.md
     check: MatchFileFragment
@@ -50,11 +57,3 @@
     check: CountFileParagraphs
     options:
       count: 6
-# Code cops
-- src/main.py:
-  - description: No TODO markers left in main.py
-    check: MatchFileFragment
-    options:
-      fragment: "TODO"
-      count: 0
-      exact: true

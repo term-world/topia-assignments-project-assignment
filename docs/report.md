@@ -1,33 +1,35 @@
+![term-world Mayoral Seal](https://user-images.githubusercontent.com/1552764/215439183-8748747c-b24a-48c1-909e-3eb398e8b155.png)
+
 # `term-world` Project Final Report
 
 ## Describe the outcome of your project; what trade-offs did you have to make?
 
-TODO
+`TODO`
 
 ## For each partnership member, assess your contributions to the project.
 
 ### Name
 
-TODO
+`TODO`
 
 ### Name
 
-TODO
+`TODO`
 
 ## Provide a detailed walk-through of how to use the project.
 
 > Be thorough. If unable to run the project due to misunderstanding, this
 > is the same as the project not being able to complete its task _at all_.
 
-TODO
+`TODO`
 
 ## Reflect and assess the quality of this project.
 
-TODO
+`TODO`
 
 ### Should `term-world` implement use this project? Why or why not?
 
-TODO
+`TODO`
 
 ## Report Receipt
 
@@ -35,4 +37,4 @@ Disregard this area unless administrative staff.
 
 |Name           |Date              |
 |:--------------|:-----------------|
-|TODO               |TODO                 |
+|`TODO`               |`TODO`                 |

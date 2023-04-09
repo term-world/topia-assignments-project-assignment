@@ -283,6 +283,10 @@ While these three criteria aren't concrete, they imply several specific outcomes
 The Golden Rule applies in this case, however, to say that _if the code doesn't
 function, the project **is not complete**_.
 
+For nearly every project, the code to implement a given project will exist in
+another repository. It is your job to provide the link to this work in documentation
+below and in the [docs/progress.md](docs/progress.md) file.
+
 #### Final project presentation
 
 During the time allocated to our course final exam, partnerships are expected to 
@@ -295,11 +299,12 @@ presentation has two parts:
 ##### Discussion
 
 Partnerships are required to create a slide deck with a link provided to a PDF
-copy in the table below.
+copy in the table below and link to the repository where project work was completed.
 
-|Presentation |
-|:------------|
-|`TODO`       |
+|Link type |Link         |
+|:---------|:------------|
+|Presentation |`TODO`       |
+|Code repository|`TODO`     |
 
 This presentation should cover:
 
