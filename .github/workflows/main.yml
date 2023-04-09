@@ -15,7 +15,7 @@ jobs:
     - name: Branch protection
       uses: term-world/arborist@v0.1.5
       with:
-        branches: '["main"]'
+        branches: '["main", "feedback"]'
         min-approvals: 1
         enforce-admins: true
       if: always()
