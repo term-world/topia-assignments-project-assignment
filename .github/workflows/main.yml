@@ -13,11 +13,15 @@ jobs:
       with: 
         fetch-depth: '0'
     - name: Branch protection
-      uses: term-world/arborist@test
+      uses: term-world/arborist@v0.1.5
+      with:
+        branches: '["main"]'
+        min-approvals: 1
+        enforce-admins: true
       if: always()
     - name: Setup Python
       if: always()
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v3
       with:
         python-version: 3.10.6
     - name: Set up grading environment
