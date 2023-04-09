@@ -3,7 +3,7 @@
 | TODO              | Assigned |
 | TODO              | Due      |
 | Status                       | 
-[![GatorGrader](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml) |
+|[![GatorGrader](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml) |
 
 **Reported by `The Mayor` on `TODO`**
 
