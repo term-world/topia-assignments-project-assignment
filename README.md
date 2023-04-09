@@ -202,6 +202,8 @@ complete
 
 ##### Self-directed project
 
+* Unlimited partnerships
+
 If none of the above categories appeal to your partnership, you may propose an 
 alternate project. To do this,
 you must gain approval from Mayoral staff. It may help you to have a discussion 
@@ -223,7 +225,7 @@ truly extenuating circumstances exist, these dates cannot be abridged.
 |Final Project Code    |12:00p, `TODO` |
 |Final Project Presentation |`TODO`    |
 
-### Proposal
+#### Proposal
 
 This project starts by writing a clear proposal of the work you expect to 
 complete over the course of this extended project. This work must be completed 
@@ -240,7 +242,7 @@ the semester, though somewhat extended. For example, this proposal has many
 more dimensions than a traditional improvement and, thus, has a larger expected 
 word count (`500 words`). 
 
-### Progress Report
+#### Progress Report
 
 As the project develops, the Office of the Mayor expects progress. You will 
 provide a `Progress Report` of no fewer than `500 words` which responds to 
@@ -248,7 +250,7 @@ questions in the `docs/progress.md` file. This will be accompanied by a
 demonstration 1 week later which should confirm or exceed expectations set by 
 the writing in this document.
 
-### Project Demonstration
+#### Project Demonstration
 
 By the date provided above, partnerships must provide a demonstration of their 
 work. This demonstration must achieve the following:
@@ -258,14 +260,14 @@ works
 * a short (5 minute) technical demonstration of the project
 * a necessarily long question and answer session with Mayoral representatives
 
-### Final Report
+#### Final Report
 
 At the close of the work, each partnership must complete the `docs/report.md` 
 file. This writing is an extended overview of the final specifications and 
 instructions for the project. It must detail both the work completed and _how 
 to use_ the projects that result. This report requires a minimum of `750 words`.
 
-### Final Project Code
+#### Final Project Code
 
 Final project code has one Golden Rule and many supporting rules of lesser 
 metallic lustre. Not to bury the lede, the Golden Rule:
@@ -280,6 +282,37 @@ we can broadly say that every project will:
 * demonstration of the broad array of skills gained throughout the semester
 
 While these three criteria aren't concrete, they imply several specific outcomes.
+
+#### Final project presentation
+
+During the time allocated to our course final exam, partnerships are expected to 
+present a short (5-10 minute) talk and demonstration of the work completed. This
+presentation has two parts:
+
+* Discussion
+* Demonstration
+
+##### Discussion
+
+Partnerships are required to create a slide deck with a link provided to a PDF
+copy in the table below.
+
+|Presentation |
+|:------------|
+|`TODO`       |
+
+This presentation should cover:
+
+* the value this project adds to the world
+* a non-technical overview of what the project _does_
+  * this might be best supported by a diagram or set of diagrams
+* a summary of challenges and successes experience during completion of the project
+
+##### Demonstration
+
+The above presentation should also contain a demonstration which can be performed
+live or as a recorded video. This demonstration constitutes _part of_ the 5 - 10
+minutes required.
 
 ## Backup Policy Reminder
 
