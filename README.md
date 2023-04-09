@@ -31,7 +31,7 @@ because the word "mass" means more than just _me_.
 So begin your planning! Decipher the many systems that the world offers you! Propose
 whatever it is that you've been telling me that you want (and you'll need to propose it
 because, frankly, I've forgotten everything anyone has suggested to me). Let's get to 
-work people! We have a new status quo to build!
+work people! We have a new status quo to build, uphold, and leverage for _my gain_!
 
 ## Overview
 
@@ -56,18 +56,60 @@ There will be no accommodations to this rule.
 
 ### Choosing a project
 
-World projects are necessarily open. This means that you're able to select 
-a range of tasks to complete, and the project will be of sufficient 
-complexity and depth to warrant needing 3+ weeks for completion. 
+World tasks are determined by the areas of work indicated below. Each partership
+will be offered a rank-choice vote to choose areas in which they'd like to work.
 
 #### Areas of work
 
-Each partnership will be allowed a rank-choice vote to choose the area of `term-world`
-which constitutes their project. Below, you'll find a grid of the various areas
-and their relative complexity. You may use this chart to determine which projects are
-of interest and appropriate scope.
+Below, you'll find broad descriptions  of the various areas and their relative complexity. 
+You may use this chart to determine which projects are of interest and appropriate scope.
 
-### Work
+##### `term-world` power grid
+
+`term-world` possesses natural resources, but no systematic way to distribute them! While
+we've seen a proof of concept for power plants, the halcyon days of everyone getting as
+much power as they need won't last forever. To keep our world sustainable, someone has to
+come up with a fair model. This involves any of the following (and/or more!):
+
+- [ ] Limiting the amount of power allocated to a user's various objects
+- [ ] Using power from renewable sources before accessing the limited exhaustible pool
+- [ ] Potentially developing new resources (exhaustible and not) to feed power demand
+- [ ] Using a limited amount of space to allocate creation of plants, panels, or turbines
+
+##### `term-world` transportation
+
+`cd`ing around only gets us so far. Have you ever imagined what it would look like if we could,
+for example, go straight from `Galbee` to `Arago`? This contemplates things like
+busses, rail, or even ride sharing. However, that doesn't exist in `term-world` as of yet. Could
+you be the one to bring these services? This might include:
+
+- [ ] Timed, scheduled transportation opportunities and predetermined routes
+- [ ] A `train-station`, `bus-station` or other project that displays schedules worldwide
+- [ ] The ability to use these stations as a way to move between locations seamlessly
+- [ ] On-demand transport from place to place (with a cost?)
+
+##### `term-world` financial system
+
+The fate of partnerships rise and fall with the level of investment of time and resources in 
+`term-world` -- the great capital cycle. Money makes the world go 'round -- of that we can be
+sure. Of course, no capital system exists without the reward of...PROFITS!
+Your task, should you take on this project is to create a market system that allows `term-world`
+citizens to partake in the riches and risks of _investments_. This could:
+
+- [ ] account for the value of a given partnership's rate of development to assess a value
+- [ ] create and offer investments in many of `term-world`'s fictitious corporate entites
+- [ ] assess a economic value of `term-world` and fix a currency to the gross digital product (GDP)
+- [ ] contemplate a savings and loan system for residents to invest their hard-earned/ill-gotten gains
+
+##### `term-world` snacks and concessions
+
+No nutritional value to be found here, folks. However, value comes in many shapes, sizes, and flavors!
+If you accept this assignment, your task is two-fold: developing a suite of products that appeal to fellow
+citizens _and_ creating a distribution system for them via world vending machines. Here you might have to:
+
+- [ ] create a centralized list
+
+### Completing project work
 
 There are various dates for documentation, demonstration, and final submission. 
 Refer to the table below for these dates which are _hard deadlines_. Unless 
@@ -75,16 +117,18 @@ truly extenuating circumstances exist, these dates cannot be abridged.
 
 |Work due              |Date                  |
 |:---------------------|:---------------------|
-|Proposal              |21 November 2022      |
-|Progress Report       |2 December 2022       |
-|Project Demonstration          |9 December 2022       |
-|Final Report          |12:00p, 20 December 2022 |
-|Final Project Code    |12:00p, 20 December 2022 |
+|Proposal              |`TODO`       |
+|Progress Report       |`TODO`       |
+|Project Demonstration |`TODO`       |
+|Final Report          |12:00p, `TODO` |
+|Final Project Code    |12:00p, `TODO` |
+|Final Project Presentation |`TODO`    |
 
-### Proposal
+#### Proposal
 
-This project starts by writing a clear proposal of the work you expect to 
-complete over the course of this extended project. This work must be completed 
+This project starts with your writing a clear proposal of the work you expect to 
+complete over the course of this extended project. Areas to address are located
+in the [docs/progress.md](docs/progress.md) file located in this repository.
 
 Final project code has one Golden Rule and many supporting rules of lesser 
 metallic lustre. Not to bury the lede, the Golden Rule:
