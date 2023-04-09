@@ -107,7 +107,23 @@ No nutritional value to be found here, folks. However, value comes in many shape
 If you accept this assignment, your task is two-fold: developing a suite of products that appeal to fellow
 citizens _and_ creating a distribution system for them via world vending machines. Here you might have to:
 
-- [ ] create a centralized list
+- [ ] create a centralized list of products to stock vending machines
+- [ ] draw from the above list to present options to citizens, and
+- [ ] determine the quantities and availabilities of various products (e.g. some can sell out?)
+- [ ] provide a vending machine object in every neighborhood to adequately promote your product
+- [ ] engage in an aggressive advertising campaign
+
+##### `term-world` inventory
+
+`term-world` has a robust sense of property management. Despite this, there are certainly ways in
+which it can be extended and improved. Here, you'll need to consult the current `inventory` system
+to make improvemnets. This requires reading through a code base, but also working within the "rules"
+and assumptions made by it. Some examples of features on request:
+
+- [ ] `backpacks` which can increase the amount of digital "stuff" a citizen can carry
+- [ ] mystery boxes which act like presents: users receiving the boxes don't know what they will get!
+- [ ] the ability to propose and execute trades with other users
+
 
 ### Completing project work
 
