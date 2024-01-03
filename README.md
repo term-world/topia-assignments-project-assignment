@@ -47,6 +47,25 @@ get to
 work people! We have a new status quo to build, uphold, and leverage for _my 
 gain_!
 
+# Table of Contents
+* Before the Assignment
+  * [Overview](#overview)
+* During the Assignment
+  * [Completing `project` content](#completing-project-content)
+    * [Partnerships](#partnerships)
+    * [Choosing a project](#choosing-a-project)
+    * [Areas of work](#areas-of-work)
+    * [Self-directed Project](#self-directed-project)
+  * [Completing `project` work](#completing-project-work)
+    * [Proposal](#proposal)
+    * [Progress Report](#progress-report)
+    * [Project Demonstration](#project-demonstration)
+    * [Final Report](#final-report)
+    * [Final Project Code](#final-project-code)
+    * [Final Project Presentation](#final-project-presentation)
+* After the Assignment
+  * [Backup Policy Reminder](#backup-policy-reminder)
+
 ## Overview
 
 At this point, the world (to a somewhat controlled extent) is yours. The task 
